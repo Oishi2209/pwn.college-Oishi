@@ -3,11 +3,8 @@
 This challenge will require you to execute the /challenge/run program from a specific path (which it will tell you). You'll need to cd to that directory before rerunning the challenge program
 
 ## Solution
--We essentially need to execute /challenge/run program from a specific path. 
--First I typed /challenge/run and got the path. 
--Then I used the cd (change directory) command with the directory provided and finally ran the /challenge/run program.
+We essentially need to execute /challenge/run program from a specific path. First I typed /challenge/run and got the path. Then I used the cd (change directory) command with the directory provided and finally ran the /challenge/run program.
 
-Use this blob for pasting commands you've run
 ```sh
 Connected!
 hacker@paths~position-elsewhere:~$ /challenge/run
